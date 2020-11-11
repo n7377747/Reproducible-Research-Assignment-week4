@@ -1,4 +1,4 @@
-# Coursera - Reproducible Research - Assignment 2
+# Coursera - Reproducible Research - Assignment week4
 
 ## Introduction
 
